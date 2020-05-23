@@ -1,0 +1,10 @@
+C:\Users\33787\source\repos\ToolsAveryDady\bin\Debug\ToolsAveryDady.exe.config
+C:\Users\33787\source\repos\ToolsAveryDady\bin\Debug\ToolsAveryDady.exe
+C:\Users\33787\source\repos\ToolsAveryDady\bin\Debug\ToolsAveryDady.pdb
+C:\Users\33787\source\repos\ToolsAveryDady\obj\Debug\ToolsAveryDady.Properties.Resources.resources
+C:\Users\33787\source\repos\ToolsAveryDady\obj\Debug\ToolsAveryDady.csproj.GenerateResource.cache
+C:\Users\33787\source\repos\ToolsAveryDady\obj\Debug\ToolsAveryDady.csproj.CoreCompileInputs.cache
+C:\Users\33787\source\repos\ToolsAveryDady\obj\Debug\ToolsAveryDady.exe
+C:\Users\33787\source\repos\ToolsAveryDady\obj\Debug\ToolsAveryDady.pdb
+C:\Users\33787\source\repos\ToolsAveryDady\obj\Debug\ToolsAveryDady.csprojAssemblyReference.cache
+C:\Users\33787\source\repos\ToolsAveryDady\obj\Debug\ToolsAveryDady.Form1.resources
